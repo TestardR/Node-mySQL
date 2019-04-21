@@ -1,0 +1,11 @@
+{
+  "name": "SQL",
+  "version": "1.0.0",
+  "description": "Simple app for using mysql with node",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  }
+}
